@@ -3,7 +3,7 @@
 <br>
 <a href="mailto:contact@gevosoftdev.ml">Email</a>
 <br>
-<div style="background-color: darkGray; padding: 10px;">
+<div style="background-color: #3b3b3b; padding: 10px;">
   <br>
 <img src="https://gevosoft.ml/img/logo.png">
   <br>
